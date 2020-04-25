@@ -10,9 +10,6 @@
 
   class TblName
   {
-
-          /* TODO: fill in the database table variable */
-
           private $conn;
           private $table = 'info';
           public $id;
@@ -33,8 +30,6 @@
       */
 
           public function read(){
-
-             /* TODO: fill in blanks with required row attributes */
 
              // Setup Query
             $q = 'SELECT
