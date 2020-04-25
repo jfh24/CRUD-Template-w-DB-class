@@ -4,7 +4,7 @@
    *  @author Joshua F. Helt
    *  @copyright April 2020
    *
-   * CRUD Template capible of managing one database column.
+   * CRUD Template capible of managing one database table.
    *
    */
 
